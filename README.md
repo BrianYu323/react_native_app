@@ -13,3 +13,8 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
+
+
+##This is the QR Code
+
+https://expo.dev/@brianyu/react_native_app?serviceType=classic&distribution=expo-go
